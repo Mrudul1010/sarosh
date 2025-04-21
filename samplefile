@@ -1,1 +1,10 @@
 hi all
+8  cat samplefile
+  469  echo hi guyssss >> samplefile
+  470  cat samplefile
+  471  git restore samplefile
+  472  cat samplefile
+  473  restore samplefile
+  474  git restore samplefile
+  475  cat samplefile
+
